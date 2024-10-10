@@ -1,3 +1,4 @@
 /.venv
 /neat_checkpoints
 /__pycache__
+/plots
